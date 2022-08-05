@@ -10,6 +10,9 @@
  - Parameters (in script)
     - Process parameters
  - Basic redirection
+   - Redirect to file
+   - Append content to a file
+   - [Pipes](https://stackoverflow.com/questions/9834086/what-is-a-simple-explanation-for-how-pipes-work-in-bash)
  - User input (stdin)
  - Strings
     - concatenation
@@ -40,6 +43,8 @@
     - parameters
     - returning values
   - Working with files
+    - Create a file
+    - [Sending multiple lines of text to a file](https://unix.stackexchange.com/questions/77277/how-to-append-multiple-lines-to-a-file)
     - File Handling
     - Read files
     - Write create files
