@@ -6,6 +6,7 @@
     - Single quotes vs double quotes
  - Variables
     - data types in bash
+    - [why to use curly braces {}](https://www.youtube.com/watch?v=FzBdcKkvUg8)
  - Parameters (in script)
     - Process parameters
  - Basic redirection
@@ -52,7 +53,9 @@
    - Dictionary
 
 # Intermediate
-  - Return codes (script)
+  - Exit codes (script)
+    - [How do I exit from an script](https://linuxhint.com/exit-bash-script/)
+    - [Exit codes](https://www.cyberciti.biz/faq/linux-bash-exit-status-set-exit-statusin-bash/)
   - Output (stderr)
   - Debugging
   - Logging
@@ -83,7 +86,8 @@
     - dig
 
 # Advanced
-  - Capture OS signals
+  - [Interacting with the clipboard](https://stackoverflow.com/questions/749544/pipe-to-from-the-clipboard-in-a-bash-script)
+  - [Capture OS signals](https://www.linuxjournal.com/content/bash-trap-command)
   - Advance redirection
   - multithread
   - multiprocess
